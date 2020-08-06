@@ -12,7 +12,7 @@
 [<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 ---
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shahzaib.k23&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shahzaibk23&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/shahzaib_kash
 [instagram]: https://instagram.com/_shahzaib.k/
