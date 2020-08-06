@@ -12,5 +12,5 @@
 
 
 [twitter]: https://twitter.com/shahzaib_kash
-[instagram]: https://instagram.com/_shahzaib.k23
+[instagram]: https://instagram.com/_shahzaib.k/
 [linkedin]: https://linkedin.com/
