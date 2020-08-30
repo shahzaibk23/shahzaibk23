@@ -17,5 +17,5 @@
 
 [twitter]: https://twitter.com/shahzaib_kash
 [instagram]: https://instagram.com/_shahzaib.k/
-[linkedin]: https://linkedin.com/
-[facebook]: https://facebook.com/
+[linkedin]: https://www.linkedin.com/in/shahzaib-kashif-2655a1178/
+[facebook]: https://www.facebook.com/iamshahzaibkashif
