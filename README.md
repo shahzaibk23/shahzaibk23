@@ -15,7 +15,7 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahzaibk23&show_icons=true&locale=en&layout=compact&theme=radical" alt="vaulstein" width=100% /></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahzaibk23&show_icons=true&locale=en&layout=compact&theme=radical" alt="vaulstein" width=70% /></p>
 
  
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahzaibk23&theme=radical" alt="arunsridher" /></p>
