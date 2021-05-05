@@ -55,3 +55,9 @@
 [facebook]: https://www.facebook.com/iamshahzaibkashif
 [hackerrank]: https://www.hackerrank.com/shazaib1
 [gmail]: mailto:shahzaibceo@gmail.com
+
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/shahzaibk23/count.svg" />
+</p>
