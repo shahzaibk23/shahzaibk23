@@ -5,7 +5,8 @@
 <div>
 
 <img width="40%" src="images/header.gif" align="right" />
-<img width="40%" src="images/terminal.gif" align="right" />
+
+
 
 <br />
 <ul>
@@ -17,6 +18,9 @@
 <li>🌱 Tech Geek, always ready to learn new Technologies/Frameworks/Languages.</li>
 <li>🥅 2021 Goals: Contribute more to Open Source projects, which I couldn't do much in 2020.</li>
 </ul>
+
+<img width="40%" src="images/terminal.gif" align="right" />
+
 </div>
 
 
