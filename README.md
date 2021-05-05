@@ -1,11 +1,16 @@
 # Hello, I'm Shahzaib Kashif 
 
 ## || Developer, Coder, Programmer, Software Engineer to-be ||
+
+<div>
+
 <img src="images/header.gif" align="right" />
 <br />
 - 🔭 I’m currently working on a Python based Projects mostly!
 - 🌱 I love to learn new things(literally everything)
 - 🥅 2020 Goals: Contribute more to Open Source projects
+
+</div>
 
 ### Connect with me
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
