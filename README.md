@@ -39,11 +39,11 @@
 
 <br />
  
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahzaibk23&theme=radical" alt="arunsridher" width=60% /></p>
+ <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=shahzaibk23&theme=radical" alt="arunsridher" width=60% /></p>
  
  <br />
 
- <p><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=shahzaibk23&count_private=true&show_icons=true&theme=radical&&include_all_commits=true" width=60% /></p>
+ <p align="center" ><img height="180em" src="https://github-readme-stats.vercel.app/api?username=shahzaibk23&count_private=true&show_icons=true&theme=radical&&include_all_commits=true" width=60% /></p>
  
  <br />
  
