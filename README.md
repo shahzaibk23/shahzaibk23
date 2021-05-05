@@ -1,7 +1,7 @@
 # Hello, I'm Shahzaib Kashif 
 
 ## || Developer, Coder, Programmer, Software Engineer to-be ||
-<p align="right"> <img src="images/header.gif" width=10% /> </p>
+<img src="images/header.gif" align="right" />
 - 🔭 I’m currently working on a Python based Projects mostly!
 - 🌱 I love to learn new things(literally everything)
 - 🥅 2020 Goals: Contribute more to Open Source projects
