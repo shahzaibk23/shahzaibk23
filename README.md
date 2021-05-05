@@ -43,7 +43,7 @@
  
  <br />
 
- <p><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=shahzaibk23&count_private=true&show_icons=true&theme=algolia&&include_all_commits=true"/></p>
+ <p><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=shahzaibk23&count_private=true&show_icons=true&theme=radical&&include_all_commits=true" width=60% /></p>
  
  <br />
  
