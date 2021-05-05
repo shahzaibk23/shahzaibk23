@@ -42,6 +42,10 @@
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahzaibk23&theme=radical" alt="arunsridher" width=60% /></p>
  
  <br />
+
+ <p><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=shahzaibk23&count_private=true&show_icons=true&theme=algolia&&include_all_commits=true"/></p>
+ 
+ <br />
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shahzaibk23&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 
