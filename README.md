@@ -17,8 +17,9 @@
 
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahzaibk23&show_icons=true&locale=en&layout=compact&theme=radical" alt="vaulstein" width=60% /></p>
 
+<br />
  
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahzaibk23&theme=radical" alt="arunsridher" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahzaibk23&theme=radical" alt="arunsridher" width=60% /></p>
  
  <br />
  
