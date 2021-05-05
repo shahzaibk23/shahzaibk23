@@ -21,8 +21,28 @@
 
 </div>
 
+## Skills and Languages
 
-## &#x1f4c8; Connect with me
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![RISC-V](https://img.shields.io/badge/RISCV-011E41?style=flat-square&logo=RISCV&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DE3423?style=flat-square&logo=Scala&logoColor=white)
+![CHISEL](https://img.shields.io/badge/CHISEL-011E41?style=flat-square&logo=CHISEL&logoColor=white)
+![C](https://img.shields.io/badge/C-276DC2?style=flat-square&logo=C&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092e20?style=flat-square&logo=Django&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-123456?style=flat-square&logo=Flutter&logoColor=white)
+![PyQT](https://img.shields.io/badge/PyQt-0d544f?style=flat-square&logo=Qt&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-3859a3?style=flat-square&logo=Tkinter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffcb2c?style=flat-square&logo=Firebase&logoColor=DD1100)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-f0db4f?style=flat-square&logo=Javascript&logoColor=white)
+![ReactJS](https://img.shields.io/badge/ReactJS-61dbfb?style=flat-square&logo=React&logoColor=white)
+![VueJS](https://img.shields.io/badge/VueJS-42b883?style=flat-square&logo=Vue&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=flat-square&logo=Bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=Html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264de4?style=flat-square&logo=Css3&logoColor=white)
+
+
+## 🌐 Connect with me
 
 [<img align="left" alt="Shahzaibk23 Twitter" height="30px" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />][twitter]
 [<img align="left" alt="Shahzaibk23 LinkedIn" height="30px" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />][linkedin]
