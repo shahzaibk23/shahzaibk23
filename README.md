@@ -1,24 +1,34 @@
 # Hello, I'm Shahzaib Kashif 
 
-## || Developer, Coder, Programmer, Software Engineer to-be ||
+## || Programmer, Hardware Designer, Full Stack Developer, Software Engineer to-be ||
 
 <div>
 
 <img src="images/header.gif" align="right" />
 <br />
-- 🔭 I’m currently working on a Python based Projects mostly!
-- 🌱 I love to learn new things(literally everything)
-- 🥅 2020 Goals: Contribute more to Open Source projects
-
+<ul>
+<li>👷 Currently pursuing BSc in Software Engineering(2018-2022) from Usman Institure of Technology. </li>
+<li>💼 Working as Research Intern at <a href="https://github.com/merledu"> Micro Electronics Research Lab (MERL-UIT)</a>. </li>
+<li>⚡ I am one of the Pioneers of RISC-V Open Source Silicon Revolution in Pakistan. </li>
+<li>🥇 I have represented Pakistan Internationally in <a href="https://www.facebook.com/events/usa-united-states/reverse-engineering-of-rocket-chip/346308059814720/"> RISC-V Summit 2020</a>.</li>
+<li>🔭 I am a Full Stack Developer (Web/Native/Desktop)</li>
+<li>🌱 Tech Geek, always ready to learn new Technologies/Frameworks/Languages.</li>
+<li>🥅 2021 Goals: Contribute more to Open Source projects, which I couldn't do much in 2020.</li>
+</ul>
 </div>
 
-### Connect with me
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-<br />
 <hr />
+
+## &#x1f4c8; Connect with me
+
+[<img align="left" alt="Shahzaibk23 Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />][twitter]
+[<img align="left" alt="Shahzaibk23 LinkedIn" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="Shahzaibk23 Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img align="left" alt="Shahzaibk23 Facebook" width="100px" src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
+[<img align="left" alt="Shahzaibk23 Facebook" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />][hackerrank]
+[<img align="left" alt="Shahzaibk23 Facebook" width="100px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />][gmail]
+<br />
+
 
 ## &#x1f4c8; GitHub Stats
 
@@ -36,3 +46,5 @@
 [instagram]: https://instagram.com/_shahzaib.k/
 [linkedin]: https://www.linkedin.com/in/shahzaib-kashif-2655a1178/
 [facebook]: https://www.facebook.com/iamshahzaibkashif
+[hackerrank]: https://www.hackerrank.com/shazaib1
+[gmail]: mailto:shahzaibceo@gmail.com
