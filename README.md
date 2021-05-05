@@ -35,15 +35,11 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahzaibk23&show_icons=true&locale=en&layout=compact&theme=radical" alt="vaulstein" width=60% /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahzaibk23&show_icons=true&locale=en&layout=compact&theme=radical" alt="vaulstein" width=60% />
 
-<br />
- 
- <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=shahzaibk23&theme=radical" alt="arunsridher" width=60% /></p>
- 
- <br />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahzaibk23&theme=radical" alt="arunsridher" width=60% />
 
- <p align="center" ><img height="180em" src="https://github-readme-stats.vercel.app/api?username=shahzaibk23&count_private=true&show_icons=true&theme=radical&&include_all_commits=true" width=60% /></p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shahzaibk23&count_private=true&show_icons=true&theme=radical&&include_all_commits=true" width=60% />
  
  <br />
  
