@@ -4,7 +4,9 @@
 
 <div>
 
-<img src="images/header.gif" align="right" />
+<img width="40%" src="images/header.gif" align="right" />
+<img width="40%" src="images/terminal.gif" align="right" />
+
 <br />
 <ul>
 <li>👷 Currently pursuing BSc in Software Engineering(2018-2022) from Usman Institure of Technology. </li>
@@ -17,7 +19,6 @@
 </ul>
 </div>
 
-<hr />
 
 ## &#x1f4c8; Connect with me
 
