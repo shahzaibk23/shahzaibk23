@@ -2,6 +2,7 @@
 
 ## || Developer, Coder, Programmer, Software Engineer to-be ||
 <img src="images/header.gif" align="right" />
+<br />
 - 🔭 I’m currently working on a Python based Projects mostly!
 - 🌱 I love to learn new things(literally everything)
 - 🥅 2020 Goals: Contribute more to Open Source projects
