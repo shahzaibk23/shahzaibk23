@@ -19,8 +19,6 @@
 <li>🥅 2021 Goals: Contribute more to Open Source projects, which I couldn't do much in 2020.</li>
 </ul>
 
-<img width="40%" src="images/terminal.gif" align="right" />
-
 </div>
 
 
