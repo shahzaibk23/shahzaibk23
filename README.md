@@ -40,8 +40,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahzaibk23&count_private=true&show_icons=true&theme=radical&&include_all_commits=true" width=60% />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahzaibk23&show_icons=true&locale=en&layout=compact&theme=radical" width=60% />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedafizza1&count_private=true&theme=radical" width="60%">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahzaibk23&theme=radical"  width=60% />
 
 
