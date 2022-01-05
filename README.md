@@ -16,7 +16,7 @@
 <li>🥇 I have represented Pakistan Internationally in <a href="https://www.facebook.com/events/usa-united-states/reverse-engineering-of-rocket-chip/346308059814720/"> RISC-V Summit 2020</a>.</li>
 <li>🔭 I am a Full Stack Developer (Web/Native/Desktop)</li>
 <li>🌱 Tech Geek, always ready to learn new Technologies/Frameworks/Languages.</li>
-<li>🥅 2021 Goals: Contribute more to Open Source projects, which I couldn't do much in 2020.</li>
+<li>🥅 2022 Goals: Contribute more to Open Source projects, which I couldn't do much in 2021.</li>
 </ul>
 
 </div>
