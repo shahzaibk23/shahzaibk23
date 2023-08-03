@@ -1,6 +1,6 @@
 # Hello, I'm Shahzaib Kashif 
 
-## || Programmer, Hardware Designer, Full Stack Developer, Software Engineer to-be ||
+## || Programmer, Hardware Designer, Full Stack Developer, Software Engineer ||
 
 <div>
 
