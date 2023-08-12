@@ -11,7 +11,7 @@
 <br />
 <ul>
 <li>👷 Currently pursuing BSc in Software Engineering(2018-2022) from Usman Institure of Technology. </li>
-<li>💼 Working as Research Intern at <a href="https://github.com/merledu"> Micro Electronics Research Lab (MERL-UIT)</a>. </li>
+<li>💼 Working as Research Assistant at <a href="https://github.com/merledu"> Micro Electronics Research Lab (MERL-UIT)</a>. </li>
 <li>⚡ I am one of the Pioneers of RISC-V Open Source Silicon Revolution in Pakistan. </li>
 <li>🥇 I have represented Pakistan Internationally in <a href="https://www.facebook.com/events/usa-united-states/reverse-engineering-of-rocket-chip/346308059814720/"> RISC-V Summit 2020</a>.</li>
 <li>🔭 I am a Full Stack Developer (Web/Native/Desktop)</li>
