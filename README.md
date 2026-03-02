@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Shahzaib Kashif</h1>
-<h3 align="center">RISC-V Advocate • CPU Design Engineer • CHISEL Enthusiast</h3>
+<h3 align="center">RISC-V Advocate • CPU Design & Verification Engineer • CHISEL Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/shahzaibk23">
