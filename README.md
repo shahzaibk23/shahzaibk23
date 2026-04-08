@@ -11,7 +11,7 @@
   <a href="https://twitter.com/shahzaib_kash">
     <img src="https://img.shields.io/badge/Twitter/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=F59E0B&color=2D2D2D" />
   </a>
-  <a href="https://shahzaibkashif.netlify.app/">
+  <a href="https://shahzaibk23.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=F59E0B&color=2D2D2D" />
   </a>
 </p>
